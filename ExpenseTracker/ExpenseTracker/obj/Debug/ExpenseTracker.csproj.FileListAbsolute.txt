@@ -1,0 +1,177 @@
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\ExpenseTracker.dll.config
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\ExpenseTracker.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\ExpenseTracker.pdb
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\csc.exe
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\csc.exe.config
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\csc.rsp
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\csi.exe
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\csi.exe.config
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\csi.rsp
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.Managed.Core.targets
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.AppContext.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Collections.Immutable.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Console.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Globalization.Calendars.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.Compression.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.FileSystem.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Net.Http.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Net.Sockets.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Reflection.Metadata.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.ValueTuple.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.XmlDocument.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.XPath.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\vbc.exe
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\vbc.exe.config
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\vbc.rsp
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\VBCSCompiler.exe
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\roslyn\VBCSCompiler.exe.config
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CopyComplete
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.dll
+F:\shivamUtil\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\ExpenseTracker.dll.config
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\ExpenseTracker.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\ExpenseTracker.pdb
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CopyComplete
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\obj\Debug\ExpenseTracker.dll
+C:\Users\Dell\source\repos\ExpenseTracker-main\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\ExpenseTracker.dll.config
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\ExpenseTracker.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\ExpenseTracker.pdb
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\csc.exe
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\csc.exe.config
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\csc.rsp
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\csi.exe
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\csi.exe.config
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\csi.rsp
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.Managed.Core.targets
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.AppContext.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Collections.Immutable.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Console.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Globalization.Calendars.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.Compression.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.FileSystem.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Net.Http.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Net.Sockets.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Reflection.Metadata.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.ValueTuple.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.XmlDocument.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.XPath.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\vbc.exe
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\vbc.exe.config
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\vbc.rsp
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\VBCSCompiler.exe
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\roslyn\VBCSCompiler.exe.config
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CopyComplete
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.dll
+C:\R_Prog\1. FINAL PROJECTS\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
